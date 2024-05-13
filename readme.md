@@ -40,8 +40,9 @@ This Solidity smart contract facilitates the management of a supply chain involv
 
 ## Contributors:
 
-- [Your Name]
-- [Your Email]
+-Pushkar Nikumb
+-Pranav Shimpi
+-Sanket Shirsath
 
 ## License:
 
